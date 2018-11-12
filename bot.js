@@ -4,7 +4,7 @@ console.log("IM READY.!");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("492681261043941376")
+let channel =     client.channels.get("511622399490392110")
 setInterval(function() {
 channel.send(` 0823t7cawfawfa 1`);
 channel.send(` 0823t7acawcawr 2`);
